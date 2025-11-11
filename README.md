@@ -1,2 +1,2 @@
-# -SCM-Calculator_App_GroupX
-my calculator 
+# SCM-Calculator_App_GroupX
+Software Configuration Management - Group Activity
